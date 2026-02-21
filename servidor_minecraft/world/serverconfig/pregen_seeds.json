@@ -1,0 +1,118 @@
+{
+	"level_seeds": [
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -4766922073856480864
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -4766922073856480864
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -4766922073856480864
+		}
+	]
+}
